@@ -12,3 +12,7 @@ Ipotizzare la telecamera posta in una posizione arbitraria rispetto al foglio ed
 - Daniele Saitta
 - Ivan Tiziano
 - Sebastiano Milardo
+
+### Data
+
+Febbraio 2011
