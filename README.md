@@ -1,5 +1,5 @@
 # CIR
-##Tesina Controllo Intelligente e Robotica
+## Tesina Controllo Intelligente e Robotica
 
 Progettare e simulare un sistema di riconoscimento immagini per riconoscere posizione e tipo di una moneta posta su un Foglio A4. 
 
